@@ -1,1 +1,3 @@
 dette er en text fil
+fra 
+andre fils
